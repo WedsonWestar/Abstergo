@@ -1,0 +1,5 @@
+This branch contains two code examples of implementing Breadth-First-Search algorithm (or BFS for short).
+code.cpp - example code in C++ language
+code.py - example code in Python language
+Description.txt - Useless txt file for bloat
+Description.pdf - Useless pdf file for bloat
